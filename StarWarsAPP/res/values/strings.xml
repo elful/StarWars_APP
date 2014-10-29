@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StarWars APP</string>
+    <string name="hello_world">Join the Dark Side of the FORCE !</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginButton">Login</string>
+    <string name="regme">I want to Join the Dark Side of the Force !</string>
+    <string name="Email_adress">Email :</string>
+    <string name="Password">Password :</string>
+    <string name="your_email_login">Your email..</string>
+    <string name="your_password">Your password..</string>
+    <string name="login">Login</string>
+    <string name="logged_in">May the FORCE Be With You, Always..</string>
+    <string name="logout">Logout me</string>
+    <string name="register_button">Register</string>
+    <string name="registered">I am already a PADAWAN</string>
+    <string name="reg">Join the Dark Side of the FORCE !</string>
+    <string name="Email">Email :</string>
+    <string name="mail">Your Email..</string>
+    <string name="goreg">I am not a PADAWAN yet ! Register Me</string>
+    <string name="Username">Username :</string>
+    <string name="your_username">Your username..</string>
+
+</resources>
